@@ -1,0 +1,12 @@
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\bin\Debug\WatchDog.exe.config
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\bin\Debug\WatchDog.exe
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\bin\Debug\WatchDog.pdb
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\obj\Debug\WatchDog.ProjectInstaller.resources
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\obj\Debug\WatchDog.csproj.GenerateResource.cache
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\obj\Debug\WatchDog.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\obj\Debug\WatchDog.exe
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\obj\Debug\WatchDog.pdb
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\obj\Debug\WatchDog.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\bin\Debug\AntivirusLib.dll
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\bin\Debug\AntivirusLib.pdb
+C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\obj\Debug\WatchDog.csproj.CopyComplete

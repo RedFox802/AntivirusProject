@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\bin\Debug\WatchDog.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\bin\Debug\WatchDog.InstallLog
+Устанавливается служба WatchDogProject...
+Служба WatchDogProject успешно установлена.
+Создается исходный EventLog WatchDogProject в журнале Application...
+Выполняется фиксация сборки 'C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\bin\Debug\WatchDog.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\xiaomi\Desktop\four\Antivirus\WatchDog\bin\Debug\WatchDog.InstallLog

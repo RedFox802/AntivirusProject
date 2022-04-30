@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\bin\Debug\Antivirus.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\bin\Debug\Antivirus.exe
+   logfile = C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\bin\Debug\Antivirus.InstallLog
+Устанавливается служба AntivirusProject...
+Служба AntivirusProject успешно установлена.
+Создается исходный EventLog AntivirusProject в журнале Application...
+Выполняется фиксация сборки 'C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\bin\Debug\Antivirus.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\bin\Debug\Antivirus.exe
+   logfile = C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\bin\Debug\Antivirus.InstallLog

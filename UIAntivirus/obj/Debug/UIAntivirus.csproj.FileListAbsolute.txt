@@ -1,0 +1,13 @@
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\bin\Debug\UIAntivirus.exe.config
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\bin\Debug\UIAntivirus.exe
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\bin\Debug\UIAntivirus.pdb
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\obj\Debug\UIAntivirus.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\obj\Debug\UIAntivirus.Form1.resources
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\obj\Debug\UIAntivirus.Properties.Resources.resources
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\obj\Debug\UIAntivirus.csproj.GenerateResource.cache
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\obj\Debug\UIAntivirus.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\obj\Debug\UIAntivirus.exe
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\obj\Debug\UIAntivirus.pdb
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\bin\Debug\AntivirusLib.dll
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\bin\Debug\AntivirusLib.pdb
+C:\Users\xiaomi\Desktop\four\Antivirus\UIAntivirus\obj\Debug\UIAntivirus.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\obj\Debug\Antivirus.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\obj\Debug\Antivirus.ProjectInstaller.resources
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\obj\Debug\Antivirus.csproj.GenerateResource.cache
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\obj\Debug\Antivirus.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\bin\Debug\Antivirus.exe.config
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\bin\Debug\Antivirus.exe
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\bin\Debug\Antivirus.pdb
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\obj\Debug\Antivirus.exe
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\obj\Debug\Antivirus.pdb
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\bin\Debug\AntivirusLib.dll
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\bin\Debug\AntivirusLib.pdb
+C:\Users\xiaomi\Desktop\four\Antivirus\Antivirus\obj\Debug\Antivirus.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\Users\xiaomi\Desktop\four\Antivirus\AntivirusLib\bin\Debug\netstandard2.0\AntivirusLib.deps.json
+C:\Users\xiaomi\Desktop\four\Antivirus\AntivirusLib\bin\Debug\netstandard2.0\AntivirusLib.dll
+C:\Users\xiaomi\Desktop\four\Antivirus\AntivirusLib\bin\Debug\netstandard2.0\AntivirusLib.pdb
+C:\Users\xiaomi\Desktop\four\Antivirus\AntivirusLib\obj\Debug\netstandard2.0\AntivirusLib.AssemblyInfoInputs.cache
+C:\Users\xiaomi\Desktop\four\Antivirus\AntivirusLib\obj\Debug\netstandard2.0\AntivirusLib.AssemblyInfo.cs
+C:\Users\xiaomi\Desktop\four\Antivirus\AntivirusLib\obj\Debug\netstandard2.0\AntivirusLib.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\four\Antivirus\AntivirusLib\obj\Debug\netstandard2.0\AntivirusLib.dll
+C:\Users\xiaomi\Desktop\four\Antivirus\AntivirusLib\obj\Debug\netstandard2.0\AntivirusLib.pdb
